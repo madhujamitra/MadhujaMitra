@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Rectangle 156](https://github.com/madhujamitra/MadhujaMitra/assets/44411291/369aea82-b081-4ab0-8d97-f336bbf7c2f8)
 
 <!--
 **madhujamitra/MadhujaMitra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
