@@ -1,12 +1,13 @@
-![DALL·E 2023-10-14 17 11 16 - Cartoon banner showcasing Madhuja Mitra in a coder superhero attire  Floating above an urban setting, her cape is adorned with symbols of frontend dev](https://github.com/madhujamitra/MadhujaMitra/assets/44411291/d4a46f62-7582-40d4-9939-873991ea6024)
+![DALL·E 2023-10-14 17 15 44 - Cartoon banner illustrating Madhuja Mitra as a coder superhero, donning stylish specs  As she glides above a fantastical city, her cape is embellished](https://github.com/madhujamitra/MadhujaMitra/assets/44411291/7385f1cf-c28e-429b-9b98-e1b2ac067a8d)
 
-**Talking about Personal Stuffs:**<br>
-🌱 I’m Javascript FullStack developer<br>
-🌱 Having 3.5+ years of experience in web developing<br>
-💬 Ask me about anything, I am happy to help<br>
-📫 How to reach me:madhujamitra3117@gmail.com<br>
 
-**Working Stack:**<br>
-🌱 React, Nextjs,Html, CSS, JS <br>
-🌱 NodeJs,Python, Express, MongoDb, SQL<br>
-🌱 GraphQL, RelayJs <br>
+<b>A Bit About Me:</b><br>
+🔍 Full-Stack Developer specialized in JavaScript<br>
+📆 3.5+ years in web development<br>
+🗣 Feel free to ask me anything; I'm here to help!<br>
+📩 Contact: madhujamitra3117@gmail.com<br>
+<br>
+<b>Technologies I Work With:</b><br>
+🛠 Frontend: React, Next.js, HTML, CSS, JS<br>
+🛠 Backend: Node.js, Python, Express, MongoDB, SQL<br>
+🛠 Others: GraphQL, Relay.js<br>
