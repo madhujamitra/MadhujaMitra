@@ -1,6 +1,4 @@
-### Hi there 👋
-![Desktop - 1](https://github.com/madhujamitra/MadhujaMitra/assets/44411291/467b268e-28bf-4cfc-8f31-62042997a432)
-
+![DALL·E 2023-10-14 17 11 16 - Cartoon banner showcasing Madhuja Mitra in a coder superhero attire  Floating above an urban setting, her cape is adorned with symbols of frontend dev](https://github.com/madhujamitra/MadhujaMitra/assets/44411291/d4a46f62-7582-40d4-9939-873991ea6024)
 
 **Talking about Personal Stuffs:**<br>
 🌱 I’m Javascript FullStack developer<br>
