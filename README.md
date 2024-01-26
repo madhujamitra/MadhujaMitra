@@ -2,7 +2,7 @@
 
 
 <b>A Bit About Me:</b><br>
-🔍 Full-Stack Developer specialized in JavaScript<br>
+🔍 Frontend Developer specialized in JavaScript<br>
 📆 3.5+ years in web development<br>
 🗣 Feel free to ask me anything; I'm here to help!<br>
 📩 Contact: madhujamitra3117@gmail.com<br>
