@@ -1,11 +1,13 @@
-![DALL·E 2023-10-14 17 15 44 - Cartoon banner illustrating Madhuja Mitra as a coder superhero, donning stylish specs  As she glides above a fantastical city, her cape is embellished](https://github.com/madhujamitra/MadhujaMitra/assets/44411291/7385f1cf-c28e-429b-9b98-e1b2ac067a8d)
+
+![Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner](https://github.com/user-attachments/assets/e58883c8-3641-4410-97ea-b21967f4bd01)
 
 
-<b>A Bit About Me:</b><br>
-🔍 Fullstack Developer specialized in JavaScript<br>
-📆 4+ years in web development<br>
-🗣 Feel free to ask me anything; I'm here to help!<br>
-📩 Contact: madhujamitra3117@gmail.com<br>
+
+## Developer | Full-Stack Engineer | AI Enthusiast
+I'm a software engineer with %+ years of experience in full-stack development, web solutions, and cloud architecture. I love exploring new technologies and solving real-world problems with practical, impactful solutions. Always learning, always building.
+
+
+
 <br>
 <b>Technologies I Work With:</b><br>
 🛠 Frontend: React, Next.js, HTML, CSS, JS NextJs<br>
